@@ -9,7 +9,7 @@ Projeto prático para aplicar conceitos de Engenharia de Software, incluindo req
 
 ## 📅 Progresso
 - Dia 1: Documento de requisitos criado
-- Dia 2: Documento de arquitetura do sistema criado
+- Dia 2: Documento de modelagem do sistema criado
 
 
 
