@@ -71,4 +71,4 @@
 
 ## 🧠 Regra de Negócio
 
-- Se IMC >= 25 → gerar encaminhamento automático
+- Se IMC >= 25 → gerar encaminhamento automático ao nutricionista

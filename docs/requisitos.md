@@ -11,6 +11,11 @@ O DevFit é um sistema backend para gestão de academias, permitindo o controle 
 
 ---
 
+## Modelagem Inicial - Entidades e Atributos
+
+
+---
+
 ## ⚙️ Requisitos Funcionais
 
 ### 👤 Alunos
